@@ -1,0 +1,8 @@
+7
+../input/mountain.png ../output/mountainHE.png opencv equalization 2 100 200 100 200 50 100 50 100
+../input/baboon.pgm ../output/baboonHS.pgm opencv sttretching 1 100 200 300 200
+../input/baboon.pgm ../output/baboonSobel.pgm opencv sobel 1 100 200 300 200
+../input/mountain.png ../output/mountainCanny.png opencv canny 1 100 200 100 200
+../input/baboon.pgm ../output/baboonHsobel.pgm opencv histsobel 1 100 200 300 200
+../input/baboon.pgm ../output/baboonHcanny.pgm opencv histcanny 1 100 200 300 200
+../input/hello2.ppm null opencv qr

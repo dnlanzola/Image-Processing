@@ -1,0 +1,2 @@
+1
+../input/tree.pgm ../output/grayAmp90.pgm ../output/grayBin90.pgm ../output/grayBinDir90.pgm grayED 1 300 45 0 0 250 250

@@ -1,0 +1,3 @@
+﻿  utility.cpp
+c:\users\daniel anzola\desktop\dipcode_vc\iptool\iptool\iptools\utility\utility.cpp(220): warning C4101: 'hue': unreferenced local variable
+  iptool.vcxproj -> C:\Users\Daniel Anzola\Desktop\DIPCODE_VC\iptool\x64\Debug\iptool.exe

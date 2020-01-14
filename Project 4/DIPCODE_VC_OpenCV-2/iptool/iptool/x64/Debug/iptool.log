@@ -1,0 +1,13 @@
+﻿  iptool.cpp
+c:\users\daniel anzola\desktop\dipcode_vc_opencv-2\iptool\iptool\iptool.cpp(444): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\daniel anzola\desktop\dipcode_vc_opencv-2\iptool\iptool\iptool.cpp(70): warning C4101: 'color': unreferenced local variable
+c:\users\daniel anzola\desktop\dipcode_vc_opencv-2\iptool\iptool\iptool.cpp(126): warning C4101: 'i': unreferenced local variable
+c:\users\daniel anzola\desktop\dipcode_vc_opencv-2\iptool\iptool\iptool.cpp(126): warning C4101: 'color': unreferenced local variable
+c:\users\daniel anzola\desktop\dipcode_vc_opencv-2\iptool\iptool\iptool.cpp(180): warning C4101: 'i': unreferenced local variable
+c:\users\daniel anzola\desktop\dipcode_vc_opencv-2\iptool\iptool\iptool.cpp(180): warning C4101: 'color': unreferenced local variable
+c:\users\daniel anzola\desktop\dipcode_vc_opencv-2\iptool\iptool\iptool.cpp(235): warning C4101: 'color': unreferenced local variable
+c:\users\daniel anzola\desktop\dipcode_vc_opencv-2\iptool\iptool\iptool.cpp(293): warning C4101: 'i': unreferenced local variable
+c:\users\daniel anzola\desktop\dipcode_vc_opencv-2\iptool\iptool\iptool.cpp(293): warning C4101: 'color': unreferenced local variable
+c:\users\daniel anzola\desktop\dipcode_vc_opencv-2\iptool\iptool\iptool.cpp(352): warning C4101: 'i': unreferenced local variable
+c:\users\daniel anzola\desktop\dipcode_vc_opencv-2\iptool\iptool\iptool.cpp(352): warning C4101: 'color': unreferenced local variable
+  iptool.vcxproj -> C:\Users\Daniel Anzola\Desktop\DIPCODE_VC_OpenCV-2\iptool\x64\Debug\iptool.exe

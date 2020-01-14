@@ -1,0 +1,31 @@
+﻿  utility.cpp
+c:\users\daniel anzola\desktop\dipcode_vc\iptool\iptool\iptools\utility\utility.cpp(220): warning C4101: 'hue': unreferenced local variable
+c:\users\daniel anzola\desktop\dipcode_vc\iptool\iptool\iptools\utility\utility.cpp(462): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel anzola\desktop\dipcode_vc\iptool\iptool\iptools\utility\utility.cpp(467): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel anzola\desktop\dipcode_vc\iptool\iptool\iptools\utility\utility.cpp(611): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel anzola\desktop\dipcode_vc\iptool\iptool\iptools\utility\utility.cpp(620): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel anzola\desktop\dipcode_vc\iptool\iptool\iptools\utility\utility.cpp(629): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel anzola\desktop\dipcode_vc\iptool\iptool\iptools\utility\utility.cpp(637): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel anzola\desktop\dipcode_vc\iptool\iptool\iptools\utility\utility.cpp(639): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel anzola\desktop\dipcode_vc\iptool\iptool\iptools\utility\utility.cpp(641): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel anzola\desktop\dipcode_vc\iptool\iptool\iptools\utility\utility.cpp(854): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel anzola\desktop\dipcode_vc\iptool\iptool\iptools\utility\utility.cpp(858): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel anzola\desktop\dipcode_vc\iptool\iptool\iptools\utility\utility.cpp(864): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel anzola\desktop\dipcode_vc\iptool\iptool\iptools\utility\utility.cpp(865): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel anzola\desktop\dipcode_vc\iptool\iptool\iptools\utility\utility.cpp(866): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel anzola\desktop\dipcode_vc\iptool\iptool\iptools\utility\utility.cpp(870): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel anzola\desktop\dipcode_vc\iptool\iptool\iptools\utility\utility.cpp(871): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel anzola\desktop\dipcode_vc\iptool\iptool\iptools\utility\utility.cpp(872): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel anzola\desktop\dipcode_vc\iptool\iptool\iptools\utility\utility.cpp(876): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel anzola\desktop\dipcode_vc\iptool\iptool\iptools\utility\utility.cpp(877): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel anzola\desktop\dipcode_vc\iptool\iptool\iptools\utility\utility.cpp(878): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel anzola\desktop\dipcode_vc\iptool\iptool\iptools\utility\utility.cpp(882): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel anzola\desktop\dipcode_vc\iptool\iptool\iptools\utility\utility.cpp(883): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel anzola\desktop\dipcode_vc\iptool\iptool\iptools\utility\utility.cpp(884): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel anzola\desktop\dipcode_vc\iptool\iptool\iptools\utility\utility.cpp(888): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel anzola\desktop\dipcode_vc\iptool\iptool\iptools\utility\utility.cpp(893): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel anzola\desktop\dipcode_vc\iptool\iptool\iptools\utility\utility.cpp(898): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel anzola\desktop\dipcode_vc\iptool\iptool\iptools\utility\utility.cpp(909): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel anzola\desktop\dipcode_vc\iptool\iptool\iptools\utility\utility.cpp(944): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel anzola\desktop\dipcode_vc\iptool\iptool\iptools\utility\utility.cpp(1093): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  iptool.vcxproj -> C:\Users\Daniel Anzola\Desktop\DIPCODE_VC\iptool\x64\Debug\iptool.exe
